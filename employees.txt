@@ -1,0 +1,105 @@
+101
+Md. Rakibul Hasan
+Vice Chancellor (VC)
+01711000101
+300000.00
+102
+Dr. Farhana Akter
+Dean
+01711000102
+220000.00
+103
+Dr. Shahidul Islam
+Head of Department (HOD)
+01711000103
+180000.00
+104
+Dr. Nusrat Jahan
+Professor
+01711000104
+150000.00
+105
+Dr. Kamal Hossain
+Associate Professor
+01711000105
+120000.00
+106
+Md. Tanvir Ahmed
+Assistant Professor
+01711000106
+90000.00
+107
+Ms. Sadia Islam
+Lecturer
+01711000107
+60000.00
+108
+Md. Jahangir Alam
+Administrative Officer
+01711000108
+40000.00
+109
+Ms. Rehana Parvin
+Accountant
+01711000109
+45000.00
+110
+Md. Habibur Rahman
+HR Officer
+01711000110
+45000.00
+111
+Md. Sohel Rana
+Office Assistant
+01711000111
+25000.00
+112
+Md. Aminul Islam
+Security Officer
+01711000112
+22000.00
+113
+Ms. Fatema Begum
+Cleaner
+01711000113
+18000.00
+114
+Md. Rafiqul Islam
+Driver
+01711000114
+20000.00
+115
+Mr. Anisur Rahman
+Chief Financial Officer (CFO)
+01711000115
+250000.00
+116
+Ms. Tania Sultana
+Finance Director
+01711000116
+200000.00
+52
+Zuvin Zawad
+Vice Chancellor (VC)
+01310550304
+300000.00
+10
+Dhrubo Jawad
+HR Officer
+01310550304
+45000.00
+16
+Jawad
+Finance Director
+01310550304
+200000.00
+15
+Karim Rahman
+Chief Financial Officer (CFO)
+01310550304
+250000.00
+3
+Ahmed Siam
+Head of Department (HOD)
+01310550304
+180000.00
