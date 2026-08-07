@@ -11,7 +11,7 @@
 A console-based Employee / Attendance / Payroll management system for
 Daffodil International University, written in C.
 
-Repository: https://github.com/dhrubojawad26/Capstone-Projects_-DIU-EMP
+Repository: [https://github.com/dhrubojawad26/Capstone-Projects-DIU-EMP](https://github.com/dhrubojawad26/Capstone-Projects_DIU-EMP
 
 ## Files
 
@@ -87,7 +87,7 @@ sudo apt-get install -y libssl-dev
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dhrubojawad26/Capstone-Projects_-DIU-EMP.git
+git clone [https://github.com/dhrubojawad26/Capstone-Projects_-DIU-EMP](https://github.com/dhrubojawad26/Capstone-Projects_DIU-EMP.git
 cd Capstone-Projects_-DIU-EMP
 ```
 
