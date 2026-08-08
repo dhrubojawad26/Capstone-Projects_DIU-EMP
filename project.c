@@ -409,9 +409,7 @@ void viewEmployees()
         printf("No employee records found.\n");
 }
 
-/* Lets the caller pick a single role and lists only employees in
-   that role, instead of the full grouped-by-all-roles dump that
-   viewEmployees() gives. */
+
 void viewEmployeesByRole()
 {
     FILE *fp;
@@ -1029,6 +1027,8 @@ void loginPortal()
 }
 
 
+
+
 int checkPortalPassword()
 {
     char input[100];
@@ -1054,6 +1054,8 @@ int checkPortalPassword()
     return 0;
 }
 
+
+
 int main()
 {
     int choice = -1;
@@ -1063,6 +1065,8 @@ int main()
 
     refreshScreen();
 
+   
+    
     while (choice != 0)
     {
         printf("\n===== DAFFODIL INTERNATIONAL UNIVERSITY =====\n");
