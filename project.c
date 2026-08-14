@@ -1072,7 +1072,6 @@ int main()
         printf("\n===== DAFFODIL INTERNATIONAL UNIVERSITY =====\n");
         printf("=====          EMPLOYEE PORTAL           =====\n");
         printf("1. Login\n");
-        printf("2. Register New Employee (HR Use)\n");
         printf("0. Exit\n");
         printf("Enter your choice: ");
         scanf("%d", &choice);
@@ -1081,10 +1080,6 @@ int main()
         {
             case 1:
                 loginPortal();
-                break;
-            case 2:
-                addEmployee();
-                pauseAndRefresh();
                 break;
             case 0:
                 printf("Exiting system. Goodbye!\n");
