@@ -42,8 +42,6 @@ float roleSalaries[ROLE_COUNT] = {
     200000              /* Finance Director */
 };
 
-extern const char *roles[ROLE_COUNT];
-extern float roleSalaries[ROLE_COUNT];
 
 struct Employee
 {
